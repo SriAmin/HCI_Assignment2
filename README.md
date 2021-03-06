@@ -46,7 +46,7 @@ Cards are presented to the Helper immedietly and allow filtering based on their 
 
 Messaging feature to allow communication betweent the elderly and helpers
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Hamburber_Menu.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Hamburger%20Menu.png)
 
 Hamburger menu to allow access to all the features of the application
 
