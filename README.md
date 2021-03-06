@@ -10,4 +10,45 @@ The features of the application are:
 
 The prototype screenshots are listed below along with a public Figma link and link for a video demonstration.
 
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Maps_Canada.png)
+
+Covid-19 Statistics of all time presented on a the map of Canada
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Statistics_Ontario.png)
+
+Covid-19 Statistics wthin 14 days presented on a the graph for Ontario
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Guide_Short.png)
+
+Guides in a concise and organized format
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Guide_Long.png)
+
+Guides that are longer and more detailed
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Volunteer_Form.png)
+
+Volunteer Form to intialize your role in the application
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Senior_Form_Filled.png)
+
+Form filled with senior to recognize their issue, also presents an error if the fields are empty
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Senior_Card.png)
+
+Cards present the helpers that are near you and willing to help
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Helper_Card_Filtered.png)
+
+Cards are presented to the Helper immedietly and allow filtering based on their catagory of issue and how far they are
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Volunteer_Message.png)
+
+Messaging feature to allow communication betweent the elderly and helpers
+
+![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Hamburber_Menu.png)
+
+Hamburger menu to allow access to all the features of the application
+
+
 Public Link to Figma File: https://www.figma.com/file/4JVhBxLw8gHKSHh2BlJvFF/Assignment_2?node-id=0%3A1
