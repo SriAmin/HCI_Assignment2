@@ -10,47 +10,51 @@ The 5 new desirable features of the application are:
 
 The prototype screenshots are listed below along with a public Figma link and link for a video demonstration.
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Maps_Canada.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Maps_Canada.png)
 
 Covid-19 Statistics of all time presented on a the map of Canada
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Statistics_Ontario.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Statistics_Ontario.png)
 
 Covid-19 Statistics wthin 14 days presented on a the graph for Ontario
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Guide_Short.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Guide_Short.png)
 
 Guides in a concise and organized format
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Guide_Long.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Guide_Long.png)
 
 Guides that are longer and more detailed
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Volunteer_Form.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Volunteer_Form.png)
 
 Volunteer Form to intialize your role in the application
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Senior_Form_Filled.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Senior_Form_Filled.png)
 
 Form filled with senior to recognize their issue, also presents an error if the fields are empty
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Senior_Card.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Senior_Card.png)
 
 Cards present the helpers that are near you and willing to help
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Helper_Card_Filtered.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Helper_Card_Filtered.png)
 
 Cards are presented to the Helper immedietly and allow filtering based on their catagory of issue and how far they are
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Volunteer_Message.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Volunteer_Message.png)
 
 Messaging feature to allow communication betweent the elderly and helpers
 
-![alt text](https://github.com/SriAmin/HCI_Assignment2/blob/main/Assignment2_Screenshots/Hamburger%20Menu.png)
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Maps.png)
+
+Maps feature allows Helpers to locate the senior and giving them the option to get directions and start navigations
+
+![alt text](https://github.com/SriAmin/HCI_Assignment3/blob/main/Assignment3_Screenshots/Hamburger%20Menu.png)
 
 Hamburger menu to allow access to all the features of the application
 
 
-Public Link to Figma File: https://www.figma.com/file/4JVhBxLw8gHKSHh2BlJvFF/Assignment_2?node-id=0%3A1
-Figma Prototype Link: https://www.figma.com/proto/4JVhBxLw8gHKSHh2BlJvFF/Assignment_2?node-id=58%3A360&viewport=588%2C406%2C0.1700347363948822&scaling=scale-down
-Video Demonstration Link: https://youtu.be/6urw7MpQl24
+Public Link to Figma File: https://www.figma.com/file/kvLpkffLsug56dBM7Sg0bk/Assignment_3?node-id=0%3A1
+
+Figma Prototype Link: https://www.figma.com/proto/kvLpkffLsug56dBM7Sg0bk/Assignment_3?node-id=2%3A2&scaling=min-zoom
